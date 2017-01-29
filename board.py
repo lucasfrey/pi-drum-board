@@ -60,19 +60,19 @@ while True:
 		w.play()
 	elif event == ord('s'):
 		screen.clear()
-		screen.addstr(0, 0, "You pressed w!")
+		screen.addstr(0, 0, "You pressed s!")
 		s.play()
 	elif event == ord('d'):
 		screen.clear()
-		screen.addstr(0, 0, "You pressed w!")
+		screen.addstr(0, 0, "You pressed d!")
 		d.play()
 	elif event == ord('g'):
 		screen.clear()
-		screen.addstr(0, 0, "You pressed w!")
+		screen.addstr(0, 0, "You pressed g!")
 		g.play()
 	elif event == ord('f'):
 		screen.clear()
-		screen.addstr(0, 0, "You pressed w!")
+		screen.addstr(0, 0, "You pressed f!")
 		f.play()
 	elif event == ord('a'):
 		screen.clear()
